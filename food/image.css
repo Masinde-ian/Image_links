@@ -1,0 +1,13 @@
+#big2{
+    display: flex;
+    justify-content: space-between;
+}
+
+div#2small1{
+    display: flex;
+    position:relative;
+    flex-wrap:wrap;
+}
+#menu{
+    word-break: break-all;
+}
